@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "674267981978",
+    "firebase_url": "https://instagrem-34298.firebaseio.com",
+    "project_id": "instagrem-34298",
+    "storage_bucket": "instagrem-34298.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:674267981978:android:348d68ec6c8e77d3",
+        "android_client_info": {
+          "package_name": "com.teddyhendryanto.instagrem"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "674267981978-0ohse9krhutcj8rr1ephmh3i62oo8rgf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.teddyhendryanto.instagrem",
+            "certificate_hash": "9e6faa21d77ff656102c836f9fcdc6cc0fdea095"
+          }
+        },
+        {
+          "client_id": "674267981978-2ks04j3ad6c030l1dnk8rp7icmdc59cu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBBbBHo0h58nyU-l5x6cQHpSpVuIdzq9S0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "674267981978-2ks04j3ad6c030l1dnk8rp7icmdc59cu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
