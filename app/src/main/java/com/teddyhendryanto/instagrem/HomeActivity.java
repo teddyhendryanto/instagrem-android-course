@@ -34,7 +34,7 @@ public class HomeActivity extends AppCompatActivity {
         btn_logout = (Button) findViewById(R.id.btn_logout);
         btn_user_list = (Button) findViewById(R.id.btn_user_list);
 
-        // AdMob
+        // AdMob Initialize
         mAdView = (AdView) findViewById(R.id.adView);
         AdRequest adRequest = new AdRequest.Builder().build();
         mAdView.loadAd(adRequest);

@@ -49,6 +49,7 @@ public class UserListActivity extends AppCompatActivity {
             }
         });
 
+        // AdMob Initialize
         mInterstitialAd = new InterstitialAd(this);
         mInterstitialAd.setAdUnitId("ca-app-pub-3940256099942544/1033173712");
         mInterstitialAd.loadAd(new AdRequest.Builder().build());
